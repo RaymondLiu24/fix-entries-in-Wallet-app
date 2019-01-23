@@ -11,7 +11,7 @@ while exists(Pattern("1548237318013.png").similar(0.85)):
     wait("1548237952159.png")
     click(Pattern("1548237952159.png").similar(0.75).targetOffset(64,-14))
 
-    #dirty method to reselect a new entry to move
+    #dirty method to deselect the entry that just moved
     wait(Pattern("1548237318013.png").similar(0.85))
     click(Pattern("1548238041498.png").similar(0.80).targetOffset(-37,2))
     wait("1548238102442.png")
