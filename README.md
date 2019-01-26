@@ -2,5 +2,9 @@
 
 ###  __Moving entries__
 
+- Demo
+
+![demo-moving-entries](img/demo-moving-entries.gif)
+
 - Code
-<img src="img/moving-entries.png" width="450">
+  <img src="img/moving-entries.png" width="450">
